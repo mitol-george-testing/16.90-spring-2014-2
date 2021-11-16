@@ -1,0 +1,49 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Aerospace Engineering"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Science and Engineering"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Systems Optimization"
+    ],
+    [
+      "Mathematics",
+      "Differential Equations"
+    ],
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "69123d94-0ce0-d92f-96e1-60f97375e8f9",
+      "833131b9-0e7e-8328-d64e-63fd5c6ee0e1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Computational Methods in Aerospace Engineering",
+  "course_description": "This course provides an introduction to numerical methods and computational techniques arising in aerospace engineering. Applications are drawn from aerospace structures, aerodynamics, dynamics and control, and aerospace systems. Techniques covered include numerical integration of systems of ordinary differential equations; numerical discretization of partial differential equations; and probabilistic methods for quantifying the impact of variability. Specific emphasis is given to finite volume methods in fluid mechanics, and finite element methods in structural mechanics.\n\nAcknowledgement: Prof. David Darmofal taught this course in prior years, and created some of the materials found in this OCW site.\n",
+  "department_numbers": [
+    "16"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "16.90",
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes",
+    "Projects with Examples"
+  ],
+  "title": "Course Metadata"
+}
